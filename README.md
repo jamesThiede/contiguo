@@ -1,6 +1,6 @@
 # Contiguo
 
-This is Contiguo. A game like you have never seen before. Some are merely *adjacent*.
+This is Contiguo. A game like you have never seen before. Some are merely *adjacento*.
 
 **OTHERS...**
 
